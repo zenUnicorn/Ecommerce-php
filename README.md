@@ -1,3 +1,11 @@
 # Ecommerce-php
-Fukky functioning Ecommerce website with php back-end, phpMyAdmin as DB, Admin Area and landing page
+Fully functioning E-commerce website with `php` as the back-end, `phpMyAdmin` as DB, Admin Area and landing page
+
+### PHPnprogramming language
+
+```php
+echo this is awesome!
+```
+
+Cheers!
 
