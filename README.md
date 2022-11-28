@@ -8,6 +8,8 @@ echo this is awesome!
 ```
 
 ## Feautures
+- User authentication
+- Orders
 
 
 Cheers!
