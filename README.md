@@ -11,7 +11,7 @@ echo this is awesome!
 - User authentication
 - Orders
 - Profile management
-- 
+- Update password
 
 
 Cheers!
