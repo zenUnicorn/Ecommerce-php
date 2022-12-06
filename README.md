@@ -12,7 +12,6 @@ echo this is awesome!
 - Orders
 - Profile management
 - Update password
-- 
 
 
 Cheers!
